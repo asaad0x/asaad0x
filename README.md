@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmad Assad</h1>
-<h3 align="center">A passionate Web Penetration Tester Student.</h3>
+<h3 align="center">A passionate Bug Hunter and web penetration tester.</h3>
 
-- 🌱 I’m currently learning **Web Apps Vulnerabilities.**
+- 🌱 I’m currently Hunting **Web Apps Vulnerabilities.**
+- 🌱 I aspire to expand my expertise in mobile and network penetration testing.
 
 - 📫 How to reach me **ass3ddd@gmail.com**
 
